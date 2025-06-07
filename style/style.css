@@ -43,6 +43,6 @@ form button:hover{
     object-fit: cover;
 }
 
-#contact-us{
+#contact-us, footer{
     background-color: rgb(18, 18, 18);
 }

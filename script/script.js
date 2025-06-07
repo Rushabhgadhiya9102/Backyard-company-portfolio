@@ -1,3 +1,5 @@
+// ------------- N A V I G A T I O N ---------------
+
 document.addEventListener("DOMContentLoaded", function () {
   const navigation = document.querySelector(".navbar");
 
